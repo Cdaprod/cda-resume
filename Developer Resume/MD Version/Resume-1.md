@@ -24,7 +24,7 @@ Determined Full-Stack Developer with a demonstrated history of working independe
 
 ### Independent Projects, Douglasville, GA (June 2022 - Present)
 
-- Successfully completed Antisyphon's Mitre ATT&CK Course in just 4 days.
+- Successfully completed Antisyphon's Mitre ATT&CK Course in just 1 day.
 - Maintained a GitHub contribution rating of A+, demonstrating consistent engagement and active learning.
 - Managed CI/CD Monorepo for Angular projects, handling Vercel deployments and continuous testing with Checkly.
 - Developed Python applications for a "no-effort" passive income solution, automating the use of OpenAI's artificial intelligence.

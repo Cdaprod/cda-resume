@@ -97,3 +97,6 @@ Available upon request.
 ---
 
 As a Full Stack Developer, I am eager to work with a dynamic team where I can contribute my skills and experience to create effective web solutions. I am excited to continue my growth in this field and utilize my knowledge in different projects and environments. Please feel free to reach out to discuss any opportunities or to request additional information.
+
+[https://onelink-nu.vercel.app/1?data=eyJuIjoiQ2RhcHJvZCIsImQiOiJTb2Z0d2FyZSBFbmdpbmVlciAmIEJ1ZyBIdW50ZXIiLCJpIjoiaHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzEwNDMyNTg1Mj9zPTQwMCZ1PThhNjEyNmQwMTMyOTkxMDg0NmZmZDIzODI1M2MwZWFmMTUwYzkyNWMmdj00IiwiZiI6Imh0dHBzOi8vRmFjZWJvb2suY29tL2RhdmlkYWNhbm5hbiIsInQiOiJodHRwczovL2xpbmtlZGluLmNvbS9pbi9jZGFzbWt0Y2RhIiwiaWciOiIiLCJnaCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DZGFwcm9kIiwidGciOiIiLCJsIjoiIiwiZSI6ImRhdmlkYWNhbm5hbkBnbWFpbC5jb20iLCJ3IjoiIiwieSI6IiIsImxzIjpbeyJpIjoiIiwibCI6IiIsInUiOiIifV19](Bio)
+
